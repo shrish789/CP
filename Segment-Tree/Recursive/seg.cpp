@@ -23,7 +23,7 @@ const ld PI = acosl(-1.0);
 
 //"Focus" on constraints.
 
-const int MAXN = 1000;
+const int MAXN = 100005;
 
 
 int n, t[4*MAXN];
