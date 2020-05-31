@@ -25,8 +25,6 @@ typedef long double ld;
 
 const ld PI = acosl(-1.0);
 
-//"Focus" on constraints.
-
 ll spf[MAXN];
 
 void modified_sieve()
