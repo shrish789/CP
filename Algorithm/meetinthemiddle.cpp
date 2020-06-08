@@ -1,4 +1,4 @@
-//maximum subset sum less than s
+//Maximum subset sum less than or equal to s
 
 #include <bits/stdc++.h>
 using namespace std;
